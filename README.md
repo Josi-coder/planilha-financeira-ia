@@ -19,7 +19,7 @@ O objetivo desta atividade é demonstrar como o uso de **planilhas inteligentes*
 
 ## 📂 Arquivos  
 
-📁 **planilha_financeira.xlsx** – Planilha desenvolvida no curso, contendo fórmulas e funcionalidades inteligentes.  
+📁 **Baixar a planilha financeira] (planilha_financeira.xlsx)** – Planilha desenvolvida no curso, contendo fórmulas e funcionalidades inteligentes.  
 
 ## 🚀 Como Utilizar  
 
