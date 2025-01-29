@@ -32,3 +32,5 @@ Este repositório é apenas para fins educacionais. Caso queira sugerir melhoria
 ## 📜 Licença  
 
 Este projeto é apenas para aprendizado e segue os termos de uso do curso.  
+
+![WhatsApp Image 2025-01-29 at 09 44 14](https://github.com/user-attachments/assets/0665bfaf-a0a5-4d58-9818-604649999493)
