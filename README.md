@@ -19,7 +19,7 @@ O objetivo desta atividade é demonstrar como o uso de **planilhas inteligentes*
 
 ## 📂 Arquivos  
 
-📁 **Baixar a planilha financeira] (planilha_financeira.xlsx)** – Planilha desenvolvida no curso, contendo fórmulas e funcionalidades inteligentes.  
+📁 **Baixar a planilha financeira] ([planilha_financeira.xlsx](https://github.com/Josi-coder/planilha-financeira-ia/commit/21bfd2d7807fe7968ed16fcfc7fc6e5d30519522#diff-2881b1645e7fb6200af7046be68978df0ec9fbc2c09b32ecd741fe74fd66b66b)** – Planilha desenvolvida no curso, contendo fórmulas e funcionalidades inteligentes.  
 
 ## 🚀 Como Utilizar  
 
